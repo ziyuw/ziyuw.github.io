@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on Ziyu Wang</title>
+    <link>https://ziyuw.github.io/publication_types/4/</link>
+    <description>Recent content in 4 on Ziyu Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/4/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Emergence of Locomotion Behaviours in Rich Environments</title>
+      <link>https://ziyuw.github.io/publication/parkour/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/publication/parkour/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning human behaviors from motion capture by adversarial imitation</title>
+      <link>https://ziyuw.github.io/publication/humanoid/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/publication/humanoid/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

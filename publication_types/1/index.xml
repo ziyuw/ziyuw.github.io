@@ -7,8 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
-    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously</title>
+      <link>https://ziyuw.github.io/publication/ui/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/publication/ui/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
     
     <item>
       <title>Robust Imitation of Diverse Behaviors</title>
@@ -23,9 +33,19 @@
     <item>
       <title>Sample Efficient Actor-Critic with Experience Replay</title>
       <link>https://ziyuw.github.io/publication/acer/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ziyuw.github.io/publication/acer/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian analysis of continuous time Markov chains with application to phylogenetic modelling</title>
+      <link>https://ziyuw.github.io/publication/phylo/</link>
+      <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/publication/phylo/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
@@ -36,6 +56,16 @@
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://ziyuw.github.io/publication/duel/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taking the human out of the loop: A review of bayesian optimization</title>
+      <link>https://ziyuw.github.io/publication/tutorial/</link>
+      <pubDate>Mon, 04 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/publication/tutorial/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>

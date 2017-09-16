@@ -7,15 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
-    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>1</title>
       <link>https://ziyuw.github.io/publication_types/1/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ziyuw.github.io/publication_types/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://ziyuw.github.io/publication_types/2/</link>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>https://ziyuw.github.io/publication_types/4/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/publication_types/4/</guid>
       <description></description>
     </item>
     
