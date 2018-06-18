@@ -8,7 +8,18 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Ziyu Wang</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ziyuw.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Playing hard exploration games by watching YouTube</title>
+      <link>https://ziyuw.github.io/publication/youtube/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/publication/youtube/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning an Embedding Space for Transferable Robot Skills</title>
@@ -16,8 +27,7 @@
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ziyuw.github.io/publication/embedding_ent/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -26,13 +36,7 @@
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ziyuw.github.io/publication/visuomotor/</guid>
-      <description>&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/EDl8SQUNjj0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;&lt;/p&gt;
-</description>
+      <description>   </description>
     </item>
     
     <item>
@@ -41,8 +45,7 @@
       <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ziyuw.github.io/publication/ui/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -51,8 +54,7 @@
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ziyuw.github.io/publication/diverse/</guid>
-      <description>&lt;!-- #More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -61,8 +63,7 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ziyuw.github.io/publication/parkour/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -71,8 +72,7 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ziyuw.github.io/publication/humanoid/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -81,8 +81,7 @@
       <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ziyuw.github.io/publication/parallel/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -91,8 +90,7 @@
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ziyuw.github.io/publication/acer/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -101,8 +99,7 @@
       <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://ziyuw.github.io/publication/phylo/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -111,8 +108,7 @@
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://ziyuw.github.io/publication/duel/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -121,8 +117,7 @@
       <pubDate>Mon, 04 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://ziyuw.github.io/publication/tutorial/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

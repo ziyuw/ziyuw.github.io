@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Ziyu Wang</copyright>
     <lastBuildDate>Sat, 10 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ziyuw.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Parallel Multiscale Autoregressive Density Estimation</title>
@@ -16,8 +18,7 @@
       <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ziyuw.github.io/publication/parallel/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

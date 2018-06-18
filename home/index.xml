@@ -8,7 +8,46 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Ziyu Wang</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ziyuw.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ziyuw.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/home/about/</guid>
+      <description>About me I am a research scientist at Deepmind. I completed my D.Phil studies at University of Oxford supvervised by Nando de Freitas. Before that I obtained my masters degree at University of British Columbia and my undergraduate degree from University of Waterloo in computer science.
+My main research area is machine learning. Currently, I am focusing my research on Deep (Reinforcement) Learning. In my previous life, I mostly worked on improving Bayesian optimization.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://ziyuw.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://ziyuw.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ziyuw.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
