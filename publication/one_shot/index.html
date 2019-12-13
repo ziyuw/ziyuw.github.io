@@ -39,11 +39,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://ziyuw.github.io/publication/visuomotor/">
+  <link rel="canonical" href="https://ziyuw.github.io/publication/one_shot/">
 
   
 
-  <title>Reinforcement and Imitation Learning for Diverse Visuomotor Skills | Ziyu Wang</title>
+  <title>One-Shot High-Fidelity Imitation: Training Large-Scale Deep Nets with RL | Ziyu Wang</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -119,10 +119,10 @@
 
 
   <div class="container pub-title">
-    <h1 itemprop="name">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</h1>
+    <h1 itemprop="name">One-Shot High-Fidelity Imitation: Training Large-Scale Deep Nets with RL</h1>
     <span class="pub-authors" itemprop="author">
       
-      Yuke Zhu, Ziyu Wang, Josh Merel, Andrei Rusu, Tom Erez, Serkan Cabi, Saran Tunyasuvunakool, János Kramár, Raia Hadsell, Nando de Freitas, Nicolas Heess
+      Tom Le Paine, Sergio Gómez Colmenarejo, Ziyu Wang, Scott Reed, Yusuf Aytar, Tobias Pfaff, Matt W. Hoffman, Gabriel Barth-Maron, Serkan Cabi, David Budden, Nando de Freitas
       
     </span>
     <span class="pull-right">
@@ -131,35 +131,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fziyuw.github.io%2fpublication%2fvisuomotor%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fziyuw.github.io%2fpublication%2fone_shot%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Reinforcement%20and%20Imitation%20Learning%20for%20Diverse%20Visuomotor%20Skills&amp;url=https%3a%2f%2fziyuw.github.io%2fpublication%2fvisuomotor%2f"
+         href="https://twitter.com/intent/tweet?text=One-Shot%20High-Fidelity%20Imitation%3a%20Training%20Large-Scale%20Deep%20Nets%20with%20RL&amp;url=https%3a%2f%2fziyuw.github.io%2fpublication%2fone_shot%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fziyuw.github.io%2fpublication%2fvisuomotor%2f&amp;title=Reinforcement%20and%20Imitation%20Learning%20for%20Diverse%20Visuomotor%20Skills"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fziyuw.github.io%2fpublication%2fone_shot%2f&amp;title=One-Shot%20High-Fidelity%20Imitation%3a%20Training%20Large-Scale%20Deep%20Nets%20with%20RL"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fziyuw.github.io%2fpublication%2fvisuomotor%2f&amp;title=Reinforcement%20and%20Imitation%20Learning%20for%20Diverse%20Visuomotor%20Skills"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fziyuw.github.io%2fpublication%2fone_shot%2f&amp;title=One-Shot%20High-Fidelity%20Imitation%3a%20Training%20Large-Scale%20Deep%20Nets%20with%20RL"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Reinforcement%20and%20Imitation%20Learning%20for%20Diverse%20Visuomotor%20Skills&amp;body=https%3a%2f%2fziyuw.github.io%2fpublication%2fvisuomotor%2f">
+         href="mailto:?subject=One-Shot%20High-Fidelity%20Imitation%3a%20Training%20Large-Scale%20Deep%20Nets%20with%20RL&amp;body=https%3a%2f%2fziyuw.github.io%2fpublication%2fone_shot%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -176,7 +176,7 @@
   
 
   <h3>Abstract</h3>
-  <p class="pub-abstract" itemprop="text">We propose a model-free deep reinforcement learning method that leverages a small amount of demonstration data to assist a reinforcement learning agent. We apply this approach to robotic manipulation tasks and train end-to-end visuomotor policies that map directly from RGB camera inputs to joint velocities. We demonstrate that our approach can solve a wide variety of visuomotor tasks, for which engineering a scripted controller would be laborious. Our experiments indicate that our reinforcement and imitation agent achieves significantly better performances than agents trained with reinforcement learning or imitation learning alone. We also illustrate that these policies, trained with large visual and dynamics variations, can achieve preliminary successes in zero-shot sim2real transfer. A brief visual description of this work can be viewed in <a href="https://youtu.be/EDl8SQUNjj0" target="_blank">https://youtu.be/EDl8SQUNjj0</a>.</p>
+  <p class="pub-abstract" itemprop="text">Humans are experts at high-fidelity imitation &ndash; closely mimicking a demonstration, often in one attempt. Humans use this ability to quickly solve a task instance, and to bootstrap learning of new tasks. Achieving these abilities in autonomous agents is an open problem. In this paper, we introduce an off-policy RL algorithm (MetaMimic) to narrow this gap. MetaMimic can learn both (i) policies for high-fidelity one-shot imitation of diverse novel skills, and (ii) policies that enable the agent to solve tasks more efficiently than the demonstrators. MetaMimic relies on the principle of storing all experiences in a memory and replaying these to learn massive deep neural network policies by off-policy RL. This paper introduces, to the best of our knowledge, the largest existing neural networks for deep RL and shows that larger networks with normalization are needed to achieve one-shot high-fidelity imitation on a challenging manipulation task. The results also show that both types of policy can be learned from vision, in spite of the task rewards being sparse, and without access to demonstrator actions.</p>
 
   
   <div class="row">
@@ -203,7 +203,7 @@
     <div class="col-sm-10">
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-        <div class="col-xs-12 col-sm-9">RSS 2018</div>
+        <div class="col-xs-12 col-sm-9">Arxiv</div>
       </div>
     </div>
     <div class="col-sm-1"></div>
@@ -216,7 +216,7 @@
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
         <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-          February, 2018
+          October, 2018
         </div>
       </div>
     </div>
@@ -236,7 +236,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://arxiv.org/pdf/1802.09564.pdf">
+<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/1810.05017.pdf">
   PDF
 </a>
 
@@ -257,12 +257,7 @@
 
   <div class="space-below"></div>
 
-  <div class="article-style"><p>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="//www.youtube.com/embed/EDl8SQUNjj0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --></p>
+  <div class="article-style"><!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. -->
 </div>
 
 </div>
@@ -271,12 +266,12 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://ziyuw.github.io/publication/ui/"><span
-      aria-hidden="true">&larr;</span> The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously</a></li>
+    <li class="previous"><a href="https://ziyuw.github.io/publication/youtube/"><span
+      aria-hidden="true">&larr;</span> Playing hard exploration games by watching YouTube</a></li>
     
 
     
-    <li class="next"><a href="https://ziyuw.github.io/publication/embedding_ent/">Learning an Embedding Space for Transferable Robot Skills <span
+    <li class="next"><a href="https://ziyuw.github.io/publication/bo_alphago/">Bayesian Optimization in AlphaGo <span
       aria-hidden="true">&rarr;</span></a></li>
     
   </ul>

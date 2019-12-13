@@ -13,6 +13,60 @@
     
     
     <item>
+      <title>Grandmaster level in StarCraft II using multi-agent reinforcement learning</title>
+      <link>https://ziyuw.github.io/publication/alpha_star/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/publication/alpha_star/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task-Relevant Adversarial Imitation Learning</title>
+      <link>https://ziyuw.github.io/publication/trail/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/publication/trail/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>A Framework for Data-Driven Robotics</title>
+      <link>https://ziyuw.github.io/publication/data_driven/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/publication/data_driven/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Making Efficient Use of Demonstrations to Solve Hard Exploration Problems</title>
+      <link>https://ziyuw.github.io/publication/r3d3/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/publication/r3d3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Optimization in AlphaGo</title>
+      <link>https://ziyuw.github.io/publication/bo_alphago/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/publication/bo_alphago/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Shot High-Fidelity Imitation: Training Large-Scale Deep Nets with RL</title>
+      <link>https://ziyuw.github.io/publication/one_shot/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziyuw.github.io/publication/one_shot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Playing hard exploration games by watching YouTube</title>
       <link>https://ziyuw.github.io/publication/youtube/</link>
       <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
@@ -28,15 +82,6 @@
       
       <guid>https://ziyuw.github.io/publication/embedding_ent/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement and Imitation Learning for Diverse Visuomotor Skills</title>
-      <link>https://ziyuw.github.io/publication/data_driven/</link>
-      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ziyuw.github.io/publication/data_driven/</guid>
-      <description>   </description>
     </item>
     
     <item>
